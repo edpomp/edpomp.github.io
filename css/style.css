@@ -413,7 +413,7 @@ ul.search li a:hover {
 
 .build_box {
      text-align: left;
-     padding-top: 20%;
+     padding-top: 25%;
 }
 
 .banner_po {
@@ -429,9 +429,9 @@ ul.search li a:hover {
 }
 
 .build_box h1 {
-     font-size: 100px;
+     font-size: 55px;
      font-weight: bold;
-     color: #fff;
+     color: #00FFFF;
      line-height: 90px;
      padding-bottom: 20px;
      display: block;
