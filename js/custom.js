@@ -60,3 +60,48 @@ function getURL() { window.location.href; } var protocol = location.protocol; $.
 
 
 });
+
+function showAbstract1() {
+  var x = document.getElementById("abstract1");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+
+function showAbstract2() {
+  var x = document.getElementById("abstract2");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+
+function showAbstract3() {
+  var x = document.getElementById("abstract3");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+
+function showAbstract4() {
+  var x = document.getElementById("abstract4");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+
+function showAbstract5() {
+  var x = document.getElementById("abstract5");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
